@@ -106,4 +106,4 @@ Defaults to `false`
 
 ## License
 
-[MIT](License.md)
+[MIT](LICENSE.md)
