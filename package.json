@@ -1,7 +1,7 @@
 {
   "name": "find-deprecated",
   "version": "1.0.0",
-  "description": "",
+  "description": "A node package for finding deprecated project dependencies",
   "main": "dist/index.js",
   "bin": {
     "find-deprecated": "dist/bin.js"
@@ -23,7 +23,7 @@
     "type": "git",
     "url": "https://github.com/727021/find-deprecated.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/debug": "^4.1.5",
     "@types/node": "^15.12.4",
